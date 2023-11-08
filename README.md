@@ -1,5 +1,6 @@
 # to install cypress
 > npm install cypress --save-dev
+
 Make sure you have node.js already installed
 
 # to open cypress dashboard
