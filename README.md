@@ -9,5 +9,5 @@ Make sure you have node.js already installed
 # to run tests
 > npx cypress run
 
-# usefull links
+# useful links
 https://docs.cypress.io/guides/getting-started/installing-cypress 
