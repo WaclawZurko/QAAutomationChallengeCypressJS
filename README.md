@@ -11,7 +11,7 @@ Make sure you have node.js already installed
 
 # reports
 Once you run test locally, test reports should be avaiable in "reports" directory and called "index.html"
-Current reports folder serve as an example from previous runs
+Current reports directory serve as an example from previous runs
 
 # useful links
 https://docs.cypress.io/guides/getting-started/installing-cypress 
